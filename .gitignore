@@ -1,0 +1,12 @@
+*.v2
+*.v1
+*.vsidx
+*.config
+Avatars/appsettings.json
+Avatars/appsettings.Development.json
+Tests/Tests.csproj
+*.targets
+*.props
+Tests/bin/
+Tests/obj/
+.vs/

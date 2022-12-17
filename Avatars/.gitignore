@@ -1,0 +1,12 @@
+.config/
+.vs/
+bin/
+obj/
+AvatarsApi.csproj
+AvatarsApi.csproj.user
+AvatarsApi.sln
+Properties/
+Avatars.csproj
+Avatars.sln
+Avatars.csproj.user
+*.lnk
